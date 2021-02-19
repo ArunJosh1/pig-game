@@ -1,1 +1,1 @@
-link for -> https://arunjoshi1.github.io/pig-game/
+link for -> https://arunnjoshi.github.io/pig-game/
